@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good to see you⭐️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=(Good to see you⭐️))
 ## Hi there 👋
 
 <!--
