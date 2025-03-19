@@ -16,8 +16,8 @@
   
   ## 🧱 Tech Stack
   ### Language
-  <!--Redshift-->
-  <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -27,10 +27,10 @@
   <br/>
   
   ### Data Warehouse
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=amazonredshift&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--Redshift-->
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=amazonredshift&logoColor=white"/>
+  <!--Snowflake-->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=snowflake&logoColor=white"/>
   <br/>
   
   ### Framework
