@@ -28,9 +28,9 @@
   
   ### Data Warehouse
   <!--Redshift-->
-  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=amazonredshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white"/>
   <!--Snowflake-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
   <br/>
   
   ### Framework
