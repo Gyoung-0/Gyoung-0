@@ -11,6 +11,7 @@
   #### :raising_hand: 예비 데이터 엔지니어입니다!<br/>
   #### :fire: 데이터 엔지니어가 되는게 목표입니다.<br/>
   #### :mortar_board: 경기대학교 컴퓨터 공학부 전공했습니다(KGU)
+  #### [blog here](https://publish.obsidian.md/semper-luceat)
   <br/>
   <br/>
   
