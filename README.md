@@ -57,7 +57,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white&Color=white"/>
   <!--SpringBoot-->
-  <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
