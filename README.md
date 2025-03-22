@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/>
   <!--streamlit-->
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  
   ### Framework
   <!--fastapi-->
   <img src="https://img.shields.io/badge/fastapi-FF282D?style=flat-square&logo=fastapi&logoColor=white"/>
