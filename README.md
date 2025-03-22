@@ -51,7 +51,12 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <!--Github-->
   <img src="https://img.shields.io/badge/github-FC6D26?style=flat-square&logo=github&logoColor=white"/>
-  
+
+  ### Visualization
+  <!--Superset-->
+  <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/>
+  <!--streamlit-->
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   ### Framework
   <!--fastapi-->
   <img src="https://img.shields.io/badge/fastapi-FF282D?style=flat-square&logo=fastapi&logoColor=white"/>
